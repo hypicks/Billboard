@@ -5,8 +5,8 @@ from spotipy.oauth2 import SpotifyOAuth
 
 OAUTH_AUTHORIZE_URL = "https://accounts.spotify.com/authorize"
 OAUTH_TOKEN_URL = "https://accounts.spotify.com/api/token"
-SPOTIPY_CLIENT_ID = "7e62d09556774ab592198e428b5ffc0f"
-SPOTIPY_CLIENT_SECRET = "19f4e93f2ac747fc8bf78eb71b7136df"
+SPOTIPY_CLIENT_ID = "YOUR ID"
+SPOTIPY_CLIENT_SECRET = "YOUR SECRET CODE"
 SPOTIPY_REDIRECT_URI = "http://example.com"
 SPOTIPY_SCOPE = "playlist-modify-private"
 
